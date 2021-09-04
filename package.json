@@ -1,0 +1,27 @@
+{
+  "name": "node-js-express-upload-download-files",
+  "version": "1.0.0",
+  "description": "Node.js Express Rest APis to Upload/Download Files",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "keywords": [
+    "node js",
+    "upload",
+    "download",
+    "file",
+    "multipart",
+    "rest api",
+    "express"
+  ],
+  "author": "bezkoder",
+  "license": "ISC",
+  "dependencies": {
+    "controller": "^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.3",
+    "nodemon": "^2.0.12"
+  }
+}
