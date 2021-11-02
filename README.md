@@ -1,3 +1,4 @@
+# NOTE: This API Will Get Outphased By The Beatshape Constant One-File API (3.0.0), Beatshape 0.0.9 Will Be The Last Version That Supports the Multi-File API (Current API).
 # Welcome To The Second Revision Of The Beatshape API!
 ### First, Make Sure You Have Every Package Installed: `npm i`
 - To Launch The Server, Use ``npm start``
