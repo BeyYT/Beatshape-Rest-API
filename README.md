@@ -4,8 +4,8 @@
 [![Run on Repl.it](https://repl.it/badge/github/BeyYT/Beatshape-Rest-API)](https://repl.it/github/BeyYT/Beatshape-Rest-API) [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/BeyYT/Beatshape-Rest-API) [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/BeyYT/Beatshape-Rest-API)
 # Welcome To The Second Revision Of The Beatshape API!
 ### First, Make Sure You Have Every Package Installed: `npm i`
-- To Launch The Server, Use ``npm start``
-- For development / hot reloading, use ``npm dev``
+- To Launch The Server, Use ``npm run start``
+- For development / hot reloading, use ``npm run dev``
 
 
 ## Private Servers, From One Of Beatshape's Devs.
